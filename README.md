@@ -1,9 +1,5 @@
 # Substrate Off-chain Worker Demo
 
-This repository is built based on [Substrate Node Template `v3.0.0+monthly-2021-10`](https://github.com/substrate-developer-hub/substrate-node-template/tree/v3.0.0+monthly-2021-10).
-
-The purpose is to demonstrate what off-chain worker could do, and how one would go about using it.
-
 ### Run
 
 1. First, complete the [basic Rust setup instructions](./docs/rust-setup.md).
