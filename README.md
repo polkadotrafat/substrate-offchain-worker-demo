@@ -2,7 +2,7 @@
 
 Fork of https://github.com/jimmychu0807/substrate-offchain-worker-demo
 
-Two pallets running off chain workers. The first one fetches asset price, the second one fetches mock grid data modeled on DEX mini-grid.
+Two pallets running off chain workers. The first one fetches asset price, the second one fetches mock grid data modeled on DREX mini-grid.
 
 <img src="https://github.com/polkadotrafat/substrate-offchain-worker-demo/blob/main/ocw_grid.png" />
 
