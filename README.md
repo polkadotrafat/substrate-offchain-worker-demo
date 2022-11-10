@@ -1,5 +1,11 @@
 # Substrate Off-chain Worker Demo
 
+Fork of https://github.com/jimmychu0807/substrate-offchain-worker-demo
+
+Two pallets running off chain workers. The first one fetches asset price, the second one fetches mock grid data modeled on DEX mini-grid.
+
+<img src="https://github.com/polkadotrafat/substrate-offchain-worker-demo/blob/main/ocw_grid.png" />
+
 ### Run
 
 1. First, complete the [basic Rust setup instructions](./docs/rust-setup.md).
